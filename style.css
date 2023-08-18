@@ -1,0 +1,68 @@
+body{
+    background:linear-gradient(45deg,rgb(4, 63, 102,0.8),rgb(105, 1, 105));
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    min-height:100vh;
+   
+    
+    
+}
+
+
+.container{
+    position:relative;
+    
+}
+
+#inputBox{
+    background-color: #fff;
+    height:80px;
+    width:209px;
+    margin:  25px 0vh 20px 0vh;
+    color:rgb(10, 1, 1);
+    text-align: right;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    font-size: 30px;
+    box-shadow: -5px -8px 10px rgb(18, 4, 58);
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    text-align: center;
+    box-shadow: -5px -8px 10px rgb(18, 4, 58);
+    margin: 2px;
+    font-size: 19px;
+    font-family:Arial;
+}
+#cal{
+    border:3px solid  rgb(14, 1, 27);
+    padding: 20px;
+    box-shadow: 0px 0px 15px rgb(1, 4, 8);
+    border-radius:5%;
+
+}
+
+#equal{
+    background-color: orange;
+}
+
+.operation{
+    color:green;
+}
+#title{
+     margin: 20px 2px 0px 0px ;
+     padding:0px;
+     text-align: center;
+     color:rgb(158, 133, 204);
+}
