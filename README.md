@@ -1,2 +1,2 @@
 # calculator
-This is my first project that is created by HTML,CSS and JavaScript
+This is my first project that is created using HTML,CSS and JavaScript
